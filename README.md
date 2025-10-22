@@ -139,7 +139,7 @@ MIT License © 2025 Mohammad Amin Nasiri
 
 ## 🙋 Author
 
-Created by Mohammad Amin Nasiri — feel free to fork, use, modify or improve.  
+Created by **Mohammad Amin Nasiri** — feel free to fork, use, modify or improve.  
 If you find this useful, give it a ⭐ on GitHub!
 
 Happy Hacking! 💻✨
